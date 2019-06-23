@@ -1,3 +1,11 @@
+# MAC SYSTEM
+
+*.swp
+*.DS_Store
+
+
+# C++
+
 # Prerequisites
 *.d
 
